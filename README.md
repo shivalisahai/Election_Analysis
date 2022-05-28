@@ -43,7 +43,7 @@ We'll then, print the results to the command line and save them to election_resu
 As dipicted in the picture above the largest number of votes are from Denver.
 
 - *Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.*
-- 
+
 Refer to the table below for the number of votes & percentage of total votes of each candidate:
 
 |    Candidate's Name     |   Percentage   | Number of Votes|
@@ -53,7 +53,9 @@ Refer to the table below for the number of votes & percentage of total votes of 
 | Raymon Anthony Doane    |      3.1%      |     11,606     |
 
 - *Which candidate won the election, what was their vote count, and what was their percentage of the total votes?*
-Diana DeGette won the election with 272,892 total votes and their percentage is 73.8%.
+
+
+Diana DeGette won the election with 272,892 total votes and the votes percentage is 73.8%.
 
 ## Election Audit Summary
 
